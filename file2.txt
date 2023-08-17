@@ -1,3 +1,7 @@
 Hello Circuit Stream
 
+<<<<<<< HEAD
 changed on gihub
+=======
+new branch
+>>>>>>> add_new_features
